@@ -1,0 +1,5 @@
+# this is a chat room program
+# compile all the java files (javac *.java)
+# fire off the server by executing ServerView (java ServerView)
+# start client by executing ClientView with optional command line argument (java ClientView [xxx]) 
+# xxx stands for userName that will display on your chat window 
